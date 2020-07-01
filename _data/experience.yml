@@ -24,7 +24,7 @@
   description: |
     * Enterprise Mobile Device Management (MDM)
     * Developed embedded MDM features for Android Platform on Samsung Smartphones and Tablets.
-    * Implemented new embedded APIs/SDK to support Samsung partners in charge of developing MDM Clients and Servers.
+    * Implemented new APIs to support Samsung partners in charge of developing MDM Clients and Servers.
     * Worked on the deployment of the automatic testing tools (Android CTS) for the Samsung MDM APIs.
     * Worked on the Documentation and Copyright License for newly developed APIs.
 
