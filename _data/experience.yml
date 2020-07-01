@@ -1,10 +1,37 @@
-# Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
-  quote: >
-   Short description of the company (optional)
-  description: | # this will include new lines to allow paragraphs
-    Description of role
+  company: Amazon Web Services
+  job_title: Software Developer Engineer
+  dates: January 2019 - Present
+  description: |
+    * Simple Workflow Service (SWF)
+    * Operate one of the largest AWS service that underpins most of AWS services around the globe.
+    * Designing high scalable systems, using the most advanced distributed system concepts.
+
+- layout: left
+  company: High Stakes Academy
+  job_title: Software Engineer
+  dates: March 2016 - March 2017
+  description: |
+    * Led the technology team on implementing SCRUM on the development of projects.
+    * Implemented and Analyzed A/B tests on webpages to optimize conversion rates.
+    * Configured all analytics tools at the company services and webpages.
+    * Managed of all company infrastructure at Amazon Web Services (AWS).
+
+- layout: left
+  company: Samsung
+  job_title: Software Engineer
+  dates: December 2013 - March 2016
+  description: |
+    * Enterprise Mobile Device Management (MDM)
+    * Developed embedded MDM features for Android Platform on Samsung Smartphones and Tablets.
+    * Worked on implementing new embedded APIs/SDK to support Samsung partners which are in charge of developing MDM Clients and Servers.
+    * Worked on the deployment of the automatic testing tools (Android CTS) for the Samsung MDM APIs.
+    * Worked on the Documentation and Copyright License for newly developed APIs.
+
+- layout: left
+  company: Samsung
+  job_title: Software Engineer Intern
+  dates: July 2013 - December 2013
+  description: |
+    * Developed embedded MDM features system for Android Platform on Samsung Smartphones and Tablets.
+    * Developed a client / server system to manage Samsung devices remotely.

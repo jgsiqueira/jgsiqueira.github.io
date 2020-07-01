@@ -1,9 +1,18 @@
-# Education Template
-- layout: left
-  name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
-  quote: >
-    Short institution or course description (optional)
-  description: | # this will include new lines to allow paragraphs
-    Description of qualification
+- layout: top
+  name: Universidade Federal de Itajubá
+  dates: 2017 - 2019
+  qualification: Master's in Computer Science 
+  description: |
+    **Field of Study:**
+    * Growth Hacking
+    * Conversion Rate Optimization (CRO)
+    * Smart Cities
+
+- layout: top
+  name: Universidade Federal de Itajubá
+  dates: 2010 - 2014
+  qualification: Bachelors's in Computer Science
+  description: |
+    **Field of Study:**
+    * Parallel Computing with GPUs
+    * Optimization of Searching Algorithms

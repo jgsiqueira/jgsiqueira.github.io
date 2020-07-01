@@ -1,62 +1,61 @@
 # Site
-repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
-# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+# repository: 
+# favicon: 
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
-phone: Your phone number (optional)
-cv   : "resume.pdf"
-#website: Your website (eg. https://google.com)(optional)
+name: Jorge Gabriel Siqueira
+title: Software Developer Engineer
+# email: 
+# phone: 
+# cv   : 
+# website: 
 
 # Social links
-#twitter_username: jekyllrb
-github_username:  moya10
-#dribbble_username: jekyll
-#facebook_username: jekyll
-#flickr_username: jekyll
-#instagram_username: jekyll
-#linkedin_username: jekyll
-#xing_username: jekyll
-#pinterest_username: jekyll
-#youtube_username: jekyll
-#googleplus_username: +jekyll
+github_username:  jgsiqueira
+linkedin_username: jgabrielsiqueira
+youtube_username: channel/UCSuGoO_f1gyI9bniHuZlNpA/videos
+# facebook_username: 
+# instagram_username: 
+# twitter_username:
+# dribbble_username: 
+# flickr_username: 
+# xing_username: 
+# pinterest_username: 
+# googleplus_username: 
 
 # About Section
-# about_title: About Me (Use this to override about section title)
+about_title: About Me
 about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add links and highlight things <mark>like this</mark>.
+about_content: |
+  Passionated by technology and programming.
 
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - [My Awesome Resume](https://moya10.github.io/awesome-cv/resume.pdf)
-    - Tables
-    - Links
-    - Images
+  Main skills:
+    - Programming (Java, C, Python)
+    - Distributed Systems
+    - Growth Hacking
+    - A/B Testing
+    - Currently studying a lot about `Machine Learning`
 
 # Projects Section
-# projects_title: Projects #(Use this to override about projects section title)
+projects_title: Awards
 
 # Experience Section
-# experience_title: Experience #(Use this to override about experience section title)
+experience_title: Experience
 
 # Education Section
-# education_title: Education #(Use this to override about education section title)
+education_title: Education
 
 # More Section
-# more_title: A Little More About Me #(Use this to override about more section title)
-more_content: | # this will include new lines to allow paragraphs
-  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+more_title: A Little More About Me
+more_content: |
+  Apart from technology and programming, I love playing with my dogs!
 
-  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+  For sports, I am currently in love with Brazilian Jiu-Jitsu (BJJ).
+
+  As a hobby, I am spending a lot of time studyng about photography and video making.
 
 # Footer
-footer_show_references: true
-
-# Build settings
-# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
-# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+footer_show_references: false
 
 sass:
   sass_dir: _sass

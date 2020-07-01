@@ -1,9 +1,47 @@
-# Project template
-- layout: top-middle
-  name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
-  quote: >
-    Short overview of the project (optional)
-  description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+- layout: top
+  name: Algar Programming Competition
+  dates: August 2014
+  description: |
+    Gold Medal (1st place)
+
+- layout: top
+  name: Algar Programming Competition
+  dates: march 2014
+  description: |
+    Silver Medal (2nd place)
+
+- layout: top
+  name: Brazilian Final of International Collegiate Programming Contest
+  dates: November 2013
+  description: |
+    Honorable Mention (Best historical result for the Univesity)
+
+- layout: top
+  name: Regional Final of International Collegiate Programming Contest
+  dates: September 2013
+  description: |
+    Gold Medal (1st place)
+
+- layout: top
+  name: Programming Contest of the State of Minas Gerais
+  dates: May 2013
+  description: |
+    Gold Medal (1st place)
+
+- layout: top
+  name: Algar Programming Competition
+  dates: May 2013
+  description: |
+    Gold Medal (1st place)
+
+- layout: top
+  name: Brazilian Final of International Collegiate Programming Contest
+  dates: November 2012
+  description: |
+    Honorable Mention (Best historical result for the Univesity)
+
+- layout: top
+  name: Regional Final of International Collegiate Programming Contest
+  dates: September 2012
+  description: |
+    Gold Medal (1st place)
